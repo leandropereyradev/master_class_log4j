@@ -1,0 +1,1 @@
+# master_class_log4j
