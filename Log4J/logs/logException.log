@@ -1,0 +1,5 @@
+12:41:02 FATAL [main] MainException: Error fatal: / by zero
+12:41:02 FATAL [main] MainException: java.lang.ArithmeticException: / by zero
+12:42:07 ERROR [main] MainException: Error al procesar una venta vacía: La venta está vacía. No se puede procesar.
+12:43:28 ERROR [main] MainException: Error al procesar una venta vacía: La venta está vacía. No se puede procesar.
+12:45:34 ERROR [main] MainException: Error al procesar una venta vacía: La venta está vacía. No se puede procesar.
